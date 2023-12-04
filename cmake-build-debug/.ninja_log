@@ -1,0 +1,6 @@
+# ninja log v5
+4	413	7234215230911515	CMakeFiles/Queue_LinkedList.dir/main.cpp.obj	dfef2b7f81829b50
+414	513	7234215231868314	Queue_LinkedList.exe	ca975915d7225021
+7	414	7234218230661466	CMakeFiles/Queue_LinkedList.dir/Queue.cpp.obj	7042470517b889a
+3	415	7234218230661466	CMakeFiles/Queue_LinkedList.dir/main.cpp.obj	dfef2b7f81829b50
+415	512	7234218231607939	Queue_LinkedList.exe	a8468038a0bbc241

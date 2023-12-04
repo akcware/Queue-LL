@@ -1,0 +1,3 @@
+C:/Users/kadir/CLionProjects/Queue-LinkedList/cmake-build-debug/CMakeFiles/Queue_LinkedList.dir
+C:/Users/kadir/CLionProjects/Queue-LinkedList/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kadir/CLionProjects/Queue-LinkedList/cmake-build-debug/CMakeFiles/rebuild_cache.dir
